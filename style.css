@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bootright{
+    position: relative;
+    margin-left: auto;
+}
+.navcolorback{
+    background-image: linear-gradient(30deg, rgb(134, 134, 128), rgb(195, 238, 227));
+}
+.agencypad{
+    padding-top: 30px;
+}
+.explore-us{
+    background-image: linear-gradient(30deg, rgb(7, 6, 7), rgb(9, 9, 10));
+    position: relative;
+    margin: 20px 200px 20px 0;
+}
+.imagelogo{
+    margin: 50px 0 0 0;
+    box-shadow: 10px 10px 20px;
+}
+.bordercurve{
+    padding-bottom: 100px;
+    border-bottom-left-radius:50%;
+    border-bottom-right-radius:50%;
+}
+.textcol{
+    color: rgb(202, 207, 183);
+}
+.textsucc{
+    color:rgb(52, 102, 79)
+}
+.wearegood{
+    padding-top: 40px;
+}
+.stradev{
+    padding-top: 30px;
+}
+.parapad{
+    padding-top: 10px;
+}
+.workpadding{
+    padding-top: 20px;
+}
+.colorbut{
+    background-image: linear-gradient(30deg, rgb(134, 134, 128),rgb(134, 134, 128));
+}
+.colorbutton{
+    background-image: linear-gradient(30deg, rgb(156, 173, 109), rgb(156, 173, 109));
+}
+.imagethink{
+    width: 400px;
+    height: 400px;
+}
+.imagethink1{
+    margin: 180px 0 0 300px;
+    border-top-left-radius: 30%;
+}
+.imageresp1{
+    margin-left: 50PX;
+}
+.marginautopad{
+    position: relative;
+    float: right;
+}
+.chooseusimg{
+    position: relative;
+    margin-left: 100px;
+}
+.marginpadding{
+    margin: 0 100px 0 100px;
+}
+.submitbut{
+    background-image: linear-gradient(30deg, rgb(172, 131, 55), rgb(172, 131, 55));
+}
+.paddingtop{
+    padding-top: 20px;
+}
+.borderpadding{
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    padding-bottom: 40px;
+}
+.impression{
+    padding-top: 80px;
+}
+.bottompad{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
